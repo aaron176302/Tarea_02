@@ -1,4 +1,4 @@
-from scipy.special import legendre
+#!/usr/bin/env python3
 import numpy as np
 
 
@@ -79,7 +79,7 @@ def funcion(x):
     Define una función matemática arbitraria a evaluar en la cuadratura.
 
     Esta función puede ser modificada según las necesidades del problema, en este caso
-    se evalúa una función de ejemplo f(x) = x^6 - x^2 * sin(2x).
+    se evalúa una función de ejemplo $f(x) = x^6 - x^2 * sin(2x)$.
 
     Args:
         x (np.ndarray): Un arreglo de puntos donde se evaluará la función.
