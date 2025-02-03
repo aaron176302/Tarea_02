@@ -1,4 +1,4 @@
-# Welcome to Tarea#2
+# Tarea#2
 
 # Introducción al Problema
 
